@@ -1,4 +1,4 @@
-# chatbot-ai-projects
+# Chatbot-AI-Projects
 
 
 This repository contains AI and machine learning projects. More projects will be added as time goes on.
