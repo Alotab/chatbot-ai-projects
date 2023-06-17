@@ -1,12 +1,9 @@
 # chatbot-ai-projects
 
 
-Sure, here is a simple readme.md file for a repository that contains AI and machine learning projects:
-
-AI and Machine Learning Projects
 This repository contains AI and machine learning projects. More projects will be added as time goes on.
 
-Getting Started
+# Getting Started 
 To get started, clone the repository to your local machine:
 
 git clone https://github.com/Alotab/chatbot-ai-projects.git
@@ -18,13 +15,13 @@ pip install -r requirements.txt
 
 
 
-Projects
+# Projects
 The following projects are currently included in the repository:
 
-'Chatbot-ai-web': This project is based on a custom wedsite data using Langchain, Pinecone and OpenAI to answer. The data from the website in embedded as vectors in the pinecone and together with openAI, you can query any information from the website.
+`Chatbot-ai-web`: This project is based on a custom wedsite data using Langchain, Pinecone and OpenAI to answer. The data from the website in embedded as vectors in the pinecone and together with openAI, you can query any information from the website.
 
 
-Contributing
+# Contributing
 If you would like to contribute to the repository, please follow these steps:
 
 Fork the repository to your own account.
