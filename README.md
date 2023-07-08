@@ -18,7 +18,7 @@ pip install -r requirements.txt
 # Projects
 The following projects are currently included in the repository:
 
-`Chatbot-ai-web`: This project is based on a custom wedsite data using Langchain, Pinecone and OpenAI to answer. The data from the website in embedded as vectors in the pinecone and together with openAI, you can query any information from the website.
+`Chatbot-ai-web`: This project is based on a custom website data using Langchain, Pinecone and OpenAI to answer. The data from the website in embedded as vectors in the pinecone and together with openAI, you can query any information from the website.
 
 
 # Contributing
